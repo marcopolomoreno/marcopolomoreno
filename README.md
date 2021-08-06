@@ -7,9 +7,9 @@
  <div style="display: inline_block">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
  </div>
 
  
