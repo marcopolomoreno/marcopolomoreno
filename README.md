@@ -20,6 +20,7 @@
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
   <img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cuda_icon_130656.png">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
  </div>
 
  
