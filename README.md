@@ -6,7 +6,7 @@
  
  <div style="display: inline_block">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img height="40" src="https://www.3dgep.com/wp-content/uploads/2011/11/nvidia_cuda.jpg">
+  <img height="40" src="https://upload.wikimedia.org/wikipedia/en/b/b9/Nvidia_CUDA_Logo.jpg">
   <img height="40" src="https://www.pinclipart.com/picdir/big/492-4923480_maplesim-maplesoft-logo-clipart.png">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
