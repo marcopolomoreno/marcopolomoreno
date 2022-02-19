@@ -4,6 +4,12 @@
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopolomoreno&layout=compact&langs_count=7&theme=dark">-->
 </div>
  
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcopolomoreno&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcopolomoreno&hide=rich%20text%20format)](https://github.com/anuraghazra/github-readme-stats)
+ 
  #
  
  <div style="display: flex;" align="center">
