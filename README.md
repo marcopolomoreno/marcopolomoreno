@@ -38,4 +38,8 @@
   <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">&nbsp;&nbsp;
  </div>
 
+#Meus Projetos Públicos
+SimuFísica:
+
+Análise de Legibilidade Textual
  
