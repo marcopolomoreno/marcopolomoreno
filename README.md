@@ -40,9 +40,9 @@
 
 #
  
-Meus Projetos Públicos
+Meus Projetos:
  
  <a href="https://simufisica.com">SimuFísica</a>
 
-Análise de Legibilidade Textual
+ <a href="https://legibilidade.com">Análise de Legibilidade Textual</a>
  
