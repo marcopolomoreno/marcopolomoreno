@@ -41,7 +41,8 @@
 #
  
 Meus Projetos Públicos
-SimuFísica:
+ 
+ <a href="https://simufisica.com">SimuFísica</a>
 
 Análise de Legibilidade Textual
  
