@@ -6,7 +6,7 @@
  <div align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcopolomoreno&hide=rich%20text%20format,html,css">
  </div>-->
- 
+ <!--
  #
  
  <div style="display: flex;" align="center">
@@ -38,7 +38,7 @@
   <img align="center" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">&nbsp;&nbsp;
  </div>
 
-#
+#-->
  
 Meus Projetos:
  
